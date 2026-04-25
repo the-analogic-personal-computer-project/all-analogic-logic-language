@@ -6,10 +6,10 @@ Being turing-complete, this can be also used to make softwares that can run on a
 
 Though, in this repository may be found only the language's rules and a simulator to be run on digital computers (with GUI).
 
-# Syntaxe and rules:
+# Syntax and rules:
 Its a very intuitive language with 4 variables types (inputs/constants, simple functions, complex (or composed) functions, and output), and 5 operations (addition, subtraction, multiplication, division, comparison).
 
-**For more details see [this document](all/syntaxe.md).**
+**For more details see [this document](all/syntax.md).**
 
 # Simulator:
 **Not finished yet !**
